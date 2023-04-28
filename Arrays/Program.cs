@@ -8,7 +8,14 @@ using Arrays.Medium;
 //Console.WriteLine(ValidSubsequence.IsValidSubsequence(array, sequence).ToString());
 //Console.WriteLine("-----Valid Subsequence-----");
 
-int[] array = { 1, 2, 3 };
-int targetSum = 6;
+//ThreeNumberSum
+//int[] array = { 1, 2, 3 };
+//int targetSum = 6;
+//ThreeNumberSum.ReturnThreeNumberSum(array, targetSum);
 
-ThreeNumberSum.ReturnThreeNumberSum(array, targetSum);
+//SmallestDifference
+int[] arrayOne = { -1, 5, 10, 20, 28, 3 };
+int[] arrayTwo = { 26, 134, 135, 15, 17 };
+SmallestDifference.ReturnSmallestDifference(arrayOne,arrayTwo);
+
+
