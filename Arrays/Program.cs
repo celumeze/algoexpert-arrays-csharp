@@ -14,8 +14,16 @@ using Arrays.Medium;
 //ThreeNumberSum.ReturnThreeNumberSum(array, targetSum);
 
 //SmallestDifference
-int[] arrayOne = { -1, 5, 10, 20, 28, 3 };
-int[] arrayTwo = { 26, 134, 135, 15, 17 };
-SmallestDifference.ReturnSmallestDifference(arrayOne,arrayTwo);
+//int[] arrayOne = { -1, 5, 10, 20, 28, 3 };
+//int[] arrayTwo = { 26, 134, 135, 15, 17 };
+//SmallestDifference.ReturnSmallestDifference(arrayOne,arrayTwo);
+
+//Spiral
+//int[,] array = { { 1, 2, 3 }, { 8, 9 , 4}, {7,6,5 } };
+//SpiralTraverse.ReturnSpiralResult(array);
+
+//ZeroSumSubArray
+int[] nums = { 1, 1, 1 };
+ZeroSumSubArray.IsZeroSumSubArray(nums);
 
 

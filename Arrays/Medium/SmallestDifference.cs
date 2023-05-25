@@ -15,7 +15,7 @@ namespace Arrays.Medium
             Array.Sort(arrayOne);
             Array.Sort(arrayTwo);
             int prevDiff = int.MaxValue;
-            int[] arrayResult = new int[2];
+            int[] arrayResult = new int[2];            
 
             while(arrayOneCounter < arrayOne.Length && arrayTwoCounter < arrayTwo.Length && prevDiff != 0) 
             { 
